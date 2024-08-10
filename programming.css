@@ -1,0 +1,63 @@
+/* COPYRIGHT 2024 Astyllly */
+/* DO NOT REMOVE THESE COMMENTS */
+
+* {
+  color: #EE204D;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  font-family: "Twinkle Star", cursive;
+
+}
+
+body {
+  background-color: #e6d8ad;
+  padding: 5px;
+}
+
+h1 {
+  color: red;
+  font-family: "Edu AU VIC WA NT Hand", cursive;
+}
+
+.heading, header {
+  background-color: #F88379;
+  padding: 0% 0% 0% 0%;
+  box-shadow: 3px 3px 3px 3px;
+}
+
+nav {
+  padding: 50px;
+  color: #ebe9e1;
+}
+
+a {
+  color: #ebe9e1;
+  font-family: "Gupter", serif;
+}
+
+.logo {
+  color: #ebe9e1;
+  font-family: "Twinkle Star", cursive;
+}
+
+span {
+  color: #ebe9e1;
+}
+
+p {
+  font-family: "Gupter", serif;
+}
+
+#link-txt-1 {
+  color: #f6f5f4;
+  font-size: 15px;
+}
+
+h2, .link-txt-1 {
+  background-color: #EE204D;
+  color: #ebe9e1;
+  width: fit-content;
+  padding: 5px;
+  border-radius: 10px;
+}

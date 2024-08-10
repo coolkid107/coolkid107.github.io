@@ -1,0 +1,186 @@
+/* COPYRIGHT 2024 Astyllly */
+/* DO NOT REMOVE THESE COMMENTS */
+
+* {
+  color: #EE204D;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  font-family: "Twinkle Star", cursive;
+
+}
+
+body {
+  background-color: #e6d8ad;
+  padding: 5px;
+  overflow-x: hidden;
+}
+
+b {
+  color: red;
+  font-family: "Gupter", serif;
+}
+
+h1 {
+  color: red;
+  font-family: "Edu AU VIC WA NT Hand", cursive;
+}
+
+.heading, header {
+  background-color: #F88379;
+  padding: 0% 0% 0% 0%;
+  box-shadow: 3px 3px 3px 3px;
+}
+
+nav {
+  padding: 50px;
+  color: #ebe9e1;
+}
+
+a {
+  color: #ebe9e1;
+  font-family: "Gupter", serif;
+}
+
+.logo {
+  color: #ebe9e1;
+  font-family: "Twinkle Star", cursive;
+}
+
+span {
+  color: #ebe9e1;
+}
+
+.claw {
+  background-color: #F88379;
+  box-sizing: border-box;
+  border: solid black 2px;
+  font-family: "Gupter", serif;
+}
+
+h3, h6 {
+  color: #ebe9e1;
+  font-family: "Gupter", serif;
+}
+
+
+p, i, br, .name-lore, li {
+  font-family: "Gupter", serif;
+}
+
+.lang {
+  color: red;
+  font-family: "Gupter", serif;
+}
+
+/* "Wowza!" text w/ span / multiple colors */
+
+#one {
+  color: red;
+  font-family: "Gupter", serif;
+}
+
+#two {
+  color: blue;
+  font-family: "Gupter", serif;
+}
+
+#three {
+  color: green;
+  font-family: "Gupter", serif;
+}
+
+#four {
+  color: yellow;
+  font-family: "Gupter", serif;
+}
+
+#five {
+  color: purple;
+  font-family: "Gupter", serif;
+}
+
+#six {
+  color: #62a0ea;
+  font-family: "Gupter", serif;
+}
+
+.wow {
+  font-family: "Gupter", serif;
+  animation-name: grow;
+  animation-timing-function: ease-in-out;
+  animation-iteration-count: infinite;
+  animation-duration: 3s;
+}
+
+/* Wowza! animation */
+
+@keyframes grow {
+  0% {
+    scale: 50%;
+  }
+
+  25% {
+    scale: 100%;
+  }
+
+  50% {
+    scale: 50%;
+  }
+
+  75% {
+    scale: 100%;
+  }
+
+  100% {
+    scale: 50%;
+  }
+}
+
+
+  ol {
+    background-color: #EE204D;
+    padding: 10px;
+    width: fit-content;
+    border-radius: 5px;
+  }
+
+/* Language List */
+
+.list-b-1, .list-b-2, .list-b-3, .list-b-4, .list-b-5, .list-b-6, .list-b-7 {
+  color: #e6d8ad;
+}
+
+/* Language Icons */
+
+.devicon-html5-plain {
+  color: #e66100;
+}
+
+.devicon-css3-plain {
+  color: #1c71d8;
+}
+
+.devicon-javascript-plain {
+  color: #f5c211;
+}
+
+.devicon-python-plain {
+  color: #3584e4;
+}
+
+.devicon-php-plain {
+  color: #9141ac
+}
+
+.devicon-sqldeveloper-plain {
+  color: #62a0ea;
+}
+
+.devicon-lua-plain {
+  color: blue;
+}
+
+.claw-machine {
+  border-radius: 5px;
+}
